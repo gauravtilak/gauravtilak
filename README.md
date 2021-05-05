@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Analytics
 - 🌱 I’m currently learning AI ML
 - 💞️ I’m looking to collaborate on Predictive Maintenance and AI Based City Traffic Management
-- 📫 How to reach me .. You may reach me at gaurav.tilak87@hotmail.com
+- 📫 How to reach me .. You may reach me at gaurav.tilak.aiml@gmail.com
 - You may also Whatsapp me on 7738764463
 
 <!---
